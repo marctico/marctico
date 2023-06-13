@@ -1,4 +1,4 @@
-### El código desarrollado está titulado por Joan Serrano Marin.  
+### El desarrollo del código está tutorizado por Joan Serrano Marin.  
 
 <!--
 **marctico/marctico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
